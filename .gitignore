@@ -3,11 +3,11 @@
 /RemoteSystemsTempFiles/
 
 # Directorios de cada proyecto que no necesitan ser compartidos
-/.settings/
-/.cproject
-/Debug/
-/Release/
+.settings/
+.cproject
+Debug/
+Release/
 
-# Este directorio mantiene informaciÃ³n del proyecto
-# es Ãºtil para importar el proyecto en un Workspace
+# Este directorio mantiene información del proyecto
+# es útil para importar el proyecto en un Workspace
 #/.project
