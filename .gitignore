@@ -1,3 +1,13 @@
-# Directorios que no necesitan ser compartidos
+# Directorios del Workspace que no necesitan ser compartidos
 /.metadata/
 /RemoteSystemsTempFiles/
+
+# Directorios de cada proyecto que no necesitan ser compartidos
+/.settings/
+/.cproject
+/Debug/
+/Release/
+
+# Este directorio mantiene información del proyecto
+# es útil para importar el proyecto en un Workspace
+#/.project
